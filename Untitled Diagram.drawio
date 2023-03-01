@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T19:13:21.885Z" agent="5.0 (Windows)" etag="ZnicY82nNZf1X3KWm0Vx" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-01T19:15:59.937Z" agent="5.0 (Windows)" etag="e30MqvUWqR4m1cx1EOLi" version="20.8.23" type="github" pages="2">
   <diagram name="Page-1" id="zze8Qe7sZBzE0vD7aIYS">
-    <mxGraphModel dx="1818" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2273" dy="1103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,7 +328,7 @@
             <mxPoint x="960" y="1069.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNEX18z2DEx4JnHS-INu-73" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=24;" connectable="0" vertex="1" parent="qNEX18z2DEx4JnHS-INu-72">
+        <mxCell id="qNEX18z2DEx4JnHS-INu-73" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=24;direction=south;" connectable="0" vertex="1" parent="qNEX18z2DEx4JnHS-INu-72">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qNEX18z2DEx4JnHS-INu-74" value="" style="endArrow=none;html=1;rounded=0;fontSize=24;exitX=0.3;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qNEX18z2DEx4JnHS-INu-43">
@@ -352,16 +352,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qNEX18z2DEx4JnHS-INu-78" value="ScheduleID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1145.08" width="150" height="55" as="geometry" />
+          <mxGeometry x="820" y="1230" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="qNEX18z2DEx4JnHS-INu-79" value="CourseID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1155.08" width="120" height="50" as="geometry" />
+          <mxGeometry x="982" y="1245" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qNEX18z2DEx4JnHS-INu-80" value="Day" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1140.08" width="160" height="60" as="geometry" />
+          <mxGeometry x="1117" y="1253" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qNEX18z2DEx4JnHS-INu-81" value="Location" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1030" width="130" height="50" as="geometry" />
+          <mxGeometry x="1164" y="1125.04" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qNEX18z2DEx4JnHS-INu-82" value="" style="endArrow=none;html=1;rounded=0;fontSize=24;exitX=0.25;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.394;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qNEX18z2DEx4JnHS-INu-79" target="qNEX18z2DEx4JnHS-INu-87">
           <mxGeometry relative="1" as="geometry">
@@ -382,7 +382,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qNEX18z2DEx4JnHS-INu-85" value="Time" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1085" width="130" height="50" as="geometry" />
+          <mxGeometry x="1164" y="1187" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qNEX18z2DEx4JnHS-INu-86" value="" style="endArrow=none;html=1;rounded=0;fontSize=24;entryX=0.062;entryY=0.74;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qNEX18z2DEx4JnHS-INu-87" target="qNEX18z2DEx4JnHS-INu-85">
           <mxGeometry relative="1" as="geometry">
@@ -391,7 +391,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qNEX18z2DEx4JnHS-INu-87" value="Schedule" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="950" y="1035.08" width="160" height="70" as="geometry" />
+          <mxGeometry x="952" y="1105.08" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qNEX18z2DEx4JnHS-INu-88" value="Admission" style="whiteSpace=wrap;html=1;align=center;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1030" y="180" width="120" height="70" as="geometry" />
@@ -672,6 +672,30 @@
         </mxCell>
         <mxCell id="qNEX18z2DEx4JnHS-INu-147" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=24;" connectable="0" vertex="1" parent="qNEX18z2DEx4JnHS-INu-145">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNEX18z2DEx4JnHS-INu-148" value="Has" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="940" y="996" width="93" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="qNEX18z2DEx4JnHS-INu-149" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.807;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qNEX18z2DEx4JnHS-INu-148" target="qNEX18z2DEx4JnHS-INu-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="953" as="sourcePoint" />
+            <mxPoint x="1270" y="953" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1130" y="964" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qNEX18z2DEx4JnHS-INu-150" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="qNEX18z2DEx4JnHS-INu-149">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNEX18z2DEx4JnHS-INu-151" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qNEX18z2DEx4JnHS-INu-148" target="qNEX18z2DEx4JnHS-INu-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="953" as="sourcePoint" />
+            <mxPoint x="980" y="1104" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qNEX18z2DEx4JnHS-INu-153" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1000.0035057078403" y="1107.9991709939966" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
